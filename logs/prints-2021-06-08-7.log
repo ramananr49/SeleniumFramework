@@ -1,0 +1,5 @@
+2021-06-08 : 17:14:47.258 [main] INFO  java.lang.Class - Browser Initialized Suucessfully
+2021-06-08 : 17:14:50.042 [main] INFO  java.lang.Class - Naviagted to desired URL successfully
+2021-06-08 : 17:14:54.123 [main] INFO  java.lang.Class - Register Link has been clicked successfully
+2021-06-08 : 17:14:54.123 [main] INFO  java.lang.Class - status of Register link isDisplayed :true
+2021-06-08 : 17:14:54.150 [main] INFO  java.lang.Class - SampleTestis failed and script entered into screenshot method
